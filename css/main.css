@@ -7,7 +7,7 @@ body{
 
 
 #wrapper {
-	max-width: 940px;
+	max-width: 1200px;
 	margin: 0 auto;
 	padding: 0 5%;
 
@@ -18,7 +18,7 @@ a {
 }
 
 img {
-	max-width: 100%;
+	max-width: 100%;	
 }
 
 h3 {
@@ -130,6 +130,11 @@ footer {
 	padding: 5%;
 	font-size: 0.75em;
 	color: #bdc3c7;
+}
+
+#gallery img {
+	border: 2px solid #599a68;
+	padding: 2px;
 }
 
 
